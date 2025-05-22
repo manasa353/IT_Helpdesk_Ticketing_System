@@ -32,12 +32,4 @@ This project is part of my learning portfolio and demonstrates my understanding 
 - Control structures and user input
 - Simple project structuring
 
-## 📎 Resume Link
 
-You can view this project live at:  
-👉 [GitHub Repository](https://github.com/your-username/your-repo-name)
-
-## 👤 Author
-
-- Your Name
-- [LinkedIn Profile](https://linkedin.com/in/your-profile) *(optional)*
